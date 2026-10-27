@@ -1,15 +1,15 @@
 # Laboratorul 6 GitHub
 
 **Nume complet:** Victor Sima  
-**Grupa:** COMPLETEAZA_GRUPA  
-**Username GitHub:** COMPLETEAZA_USERNAME  
-**Depozit privat al disciplinei:** COMPLETEAZA_LINKUL  
+**Grupa:** SI-265
+**Username GitHub:** Victor-Sima
+**Depozit privat al disciplinei:** https://github.com/Victor-Sima/TP
 **Data:** 27 octombrie 2026
 
 ## Linkuri pentru verificare
 
-- `exercitiu-git`: COMPLETEAZA_DUPA_PUBLICARE
-- `exercitiu-2`: COMPLETEAZA_DUPA_PUBLICARE
+- `exercitiu-git`: https://github.com/Victor-Sima/exercitiu-git
+- `exercitiu-2`: https://github.com/Victor-Sima/exercitiu-2
 
 ## Ce am exersat
 
@@ -24,6 +24,4 @@
 9. **A9 - Log și diff:** Am verificat istoricul commit-urilor și am exersat anularea unei modificări temporare cu `git restore`.
 10. **A10 - Al doilea depozit:** Am inițializat local `exercitiu-2` și am creat primul commit; după publicare va fi trimis cu `git push -u origin main`.
 
-## Mențiune de onestitate
 
-Structura locală și commit-urile au fost pregătite cu ajutorul Codex. Publicarea pe GitHub, linkurile finale și e-mailul de predare vor fi completate de student, folosind propriul cont GitHub.
